@@ -1,0 +1,10 @@
+• Changes to be committed
+  Fichier modifié et ajoute avec git add
+• Changes not staged for commit
+  Fichier modifié et ajoute avec git add
+  Puis remodifie donc il faut Faire git add à nouveau!
+• Untracked files
+  Fichier modifié et non ajoute avec git add
+
+=> Un fichier peut se trouver dans "Changes to be committed" et "Changes not staged for commit":
+    • Cela arrive quand on modifie un fichier et on l'ajoute avec git add puis on le remodifie
