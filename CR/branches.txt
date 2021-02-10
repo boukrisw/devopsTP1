@@ -1,0 +1,13 @@
+1. Quelle commande avez vous utilisee pour creer une nouvelle branche ?
+    git branch <nom de branche>
+
+2. Quelle commande permet de connaıtre la liste des branches ?
+    git branch
+3. Comment savoir dans quelle branche on travaille ?
+    git status ou la branche avec * dans (git branch)
+
+4. Comment changer de branche ?
+    git checkout <nom de branche>
+
+5. Quelles differences constatez vous dans votre repertoire de travail lorsque vous passez de la branche feature1 à la branche master.
+    Le repertoire "branchtest" disparait
