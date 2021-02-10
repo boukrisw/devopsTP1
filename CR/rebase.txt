@@ -1,0 +1,13 @@
+Dans la branche feature2:
+  git rebase master
+
+Puis dans la branche master:
+  git merge feature2
+  git push
+
+Difference avec merge:
+  -> On fait le merge sans devoir pusher la branche feature2
+  -> fast-forward sert à réécrire l'Histoire.
+
+Pour supprimer la branche feature2:
+  git branch -d feature2
