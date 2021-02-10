@@ -1,0 +1,5 @@
+Etape 9:
+  La commande est:
+    git merge feature1
+    
+  Dans la branch master!
