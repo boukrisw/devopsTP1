@@ -1,0 +1,13 @@
+Etape 1:
+  git clone https://github.com/boukrisw/devopsTP1.git
+
+Etape 3:
+  git add AUTHORS
+  git commit -m "Etape 3"
+
+Etape 4:
+  git push
+  
+Etape 5:
+  notion de "upstream": Faire en sorte qu'une branche Git existante fasse le suivi d'une branche distante
+  Je n'ai pas eu ce probleme car ma branche suivi la branche distante grace au CLONE!
