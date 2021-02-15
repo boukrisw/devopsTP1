@@ -1,0 +1,7 @@
+git log
+//Pour savoir L'id de commit 
+git revert idCommit
+//pour annuler un commit par un autre commit idCommit
+validation des changement
+git revert --continue
+git push
