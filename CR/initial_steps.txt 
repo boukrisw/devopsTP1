@@ -11,3 +11,5 @@ Etape 4:
 Etape 5:
   notion de "upstream": Faire en sorte qu'une branche Git existante fasse le suivi d'une branche distante
   Je n'ai pas eu ce probleme car ma branche suivi la branche distante grace au CLONE!
+
+Ceci est une LIGNE de Conflit en Master
