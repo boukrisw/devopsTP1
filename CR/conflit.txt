@@ -1,0 +1,17 @@
+Step1:
+
+    Dans la branche Master le fichier CR/intial_steps.txt:
+        On a ajouté dans la ligne 15:
+        "Ceci est une LIGNE de Conflit en master"
+    On commit et on push ces modifications
+
+    Dans la branche feature1 le fichier CR/intial_steps.txt:
+        On a ajouté dans la ligne 15:
+        "Ceci est une LIGNE de Conflit en feature1 à merger dans master"
+    On commit et on push ces modifications
+
+Step2:
+    On se deplace dans la branche master et on lance:
+        git merge feature1
+        ça nous montre les conflits existant et puis on choisit la version souhaitée!
+        Puis on push pour valider le merge
