@@ -1,0 +1,7 @@
+On cree un fichier .gitignore dans la racine
+puis on ecrit dans ce fichier les fichiers et repertoires a ignorer!
+    *.pdf
+    tmp/
+
+=> Apres avoir creer le repertoire tmp et ajouter un fichier pdf
+La commande git status ne prend pas en compte ces modifications!
