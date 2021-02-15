@@ -1,0 +1,17 @@
+
+1)  git checkout feature1 ( Renvoie une erreur a cause des modifs )
+            error: Vos modifications locales aux fichiers suivants seraient écrasées par l'extraction :
+                    CR/cancel.txt
+                    CR/conflit.txt
+            Veuillez valider ou remiser vos modifications avant de basculer de branche.
+            Abandon
+
+2)  git stash save
+    git checkout feature1
+
+3)Le meme que La derniere version 
+  Ne contient pas les modifs realisees avant le git checkout 
+
+4) git stash list
+
+5) git stash pop

@@ -15,3 +15,7 @@ Step2:
         git merge feature1
         ça nous montre les conflits existant et puis on choisit la version souhaitée!
         Puis on push pour valider le merge
+
+Etape 17:
+
+    Ceci est un paragraph pour tester Etape17

@@ -5,3 +5,6 @@ git revert idCommit
 validation des changement
 git revert --continue
 git push
+
+Etape 16:
+    git reset conflit.txt pour annuler les modifs!
